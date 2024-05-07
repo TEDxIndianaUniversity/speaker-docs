@@ -10,7 +10,7 @@ description: >-
 
 ### Considerations
 
-If you'd like to use slides (they're _entirely optional_!), consider slides you've seen in the past... Have some caught your eye? Distracted you from the talk? Been easy to understand or too crowded to look at? When creating the preliminary draft for your slides, it's important to consider that (although your slides will undergo an iteration by our Technical Production team), your talk must be supported by your slide content... not hindered or overpowered by them. If something isn't necessary, don't include it. Think about how you'll click through your slides as you talk. If something is important, but you don't know how to make it clean, let us know!&#x20;
+Slides are entirely optional! However, if you're thinking about having slides, consider some you've seen in the past... Have some caught your eye? Distracted you from the talk? Been easy to understand or too crowded to look at? When creating the preliminary draft for your slides, it's important to consider that (although your slides will undergo an iteration by our Technical Production team), your talk must be supported by your slide content... not hindered or overpowered by them. If something isn't necessary, don't include it. Think about how you'll click through your slides as you talk. If something is important, but you don't know how to make it clean, let us know!&#x20;
 
 ### Requirements
 

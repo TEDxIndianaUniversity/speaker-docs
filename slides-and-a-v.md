@@ -20,7 +20,7 @@ Slides are entirely optional! However, if you're thinking about having slides, c
 * _**KEEP IT SIMPLE!**_ Don't put too much text or too many images on any one slide.
 * We will update your slides to use the [Inter](https://fonts.google.com/specimen/Inter?query=inter) or [Inter Tight](https://fonts.google.com/specimen/Inter+Tight?query=inter) font family. Consider designing them with these fonts from the start, if you're comfortable installing the fonts (they're free)
 * Don't include animations or transitions other than simple fades, wipes, or Morph/Magic Move
-* Understand that your slides **will be edited** from your original designs by our team to ensure they follow both our content guidelines and style guidelines. We will run your slides by you with the updated slides to ensure you're comfortable with the deck
+* Understand that your slides **will be edited** from your original designs by our team to ensure they follow both our content guidelines and style guidelines. We will run the update slides by you to ensure you're comfortable with the deck
 
 ### Resources
 

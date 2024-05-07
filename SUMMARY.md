@@ -7,3 +7,4 @@
 * [💻 Slides & A/V](slides-and-a-v.md)
 * [✈️ Travel & Hotels](travel-and-hotels.md)
 * [📄 Agreements & Forms](agreements-and-forms.md)
+* [💲 Reimbursement](reimbursement.md)

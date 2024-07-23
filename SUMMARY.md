@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Welcome, Speakers!](README.md)
 * [⏳ Timeline](timeline.md)
 * [🤔 Giving a TEDx Talk](giving-a-tedx-talk.md)
 * [🤘 Working with Us](working-with-us.md)

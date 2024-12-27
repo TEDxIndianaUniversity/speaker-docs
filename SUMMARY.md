@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome, Speakers!](README.md)
-* [⏳ Timeline](timeline.md)
+* [⏳ Tentative Timeline](tentative-timeline.md)
 * [🤔 Giving a TEDx Talk](giving-a-tedx-talk.md)
 * [🤘 Working with Us](working-with-us.md)
 * [💻 Slides & A/V](slides-and-a-v.md)

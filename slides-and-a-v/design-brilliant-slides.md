@@ -5,7 +5,7 @@ description: The DOs and DON'Ts of Making Beautiful and Effective Presentations
 # 🎨 Design Brilliant Slides
 
 {% hint style="info" %}
-If you haven't seen our [Slides & A/V](./) article yet, go read that first!
+If you haven't seen our [Slides & A/V](../slides-and-a-v.md) article yet, go read that first!
 {% endhint %}
 
 ***
@@ -21,11 +21,21 @@ Design your talk to **start from a black screen**. Why?
 1. Audiences prefer a talk that starts with the bulk of the idea (also called _in medias res_) or starts with an example that expands into the idea. Designing from a black slide encourages this.&#x20;
 2. Title slides often cause presenters to say "So today I'm talking about..." (Absolutely, no. Never.)
 
+***
+
+## DO: Use Clean, Non-Distracting Fonts
+
+DON'T: Use hard-to-read, distracting fonts
+
+<div><figure><img src="../.gitbook/assets/betterFont.png" alt=""><figcaption><p><strong>GOOD:</strong> The Inter font is used, and text size draws your eyes to what's important</p></figcaption></figure> <figure><img src="../.gitbook/assets/bad font.png" alt=""><figcaption><p><strong>BAD:</strong> The font is difficult to read from the audience</p></figcaption></figure></div>
+
+Our team will change presentation fonts to use the Inter font family. We recommend designing your slides from the beginning with this font. You can download Inter for free [**from Google Fonts**](https://fonts.google.com/specimen/Inter?query=inter).
+
+Because we change fonts for audience experience and accessibility reasons, if you **must** use a particular font, let us know and provide a concrete reason for its use.
+
 
 
 ***
-
-
 
 ## DO: Get Rid of the Text! (Or Use Very Little)
 
@@ -41,7 +51,7 @@ You're there to give the talk, share the content, and tell the narrative. You sh
 
 
 
-## DO: Use Media that Supports your Talk
+## DO: Use Photos & Videos that Supports your Talk
 
 DON'T: Use stock images or filler images
 
@@ -51,7 +61,7 @@ Use content that's relevant and won't detract from your talk. Using stock images
 
 If you don't have imagery/video for a slide or topic, use a blank slide to redirect the audience's focus back to you (and away from the screen).
 
-
+Videos or GIFs with rapid flashing will be removed from your slides, as they can **cause physical harm** to audience members with photosensitive epilepsy and other photosensitive conditions.
 
 ***
 
@@ -70,6 +80,16 @@ DON'T: Make them small, change their shape, add a border, etc.
 Now that you have only images and videos that support your talk, you want them seen! Don't let fancy design or whitespace/margining/borders distract from the very important content.
 
 
+
+***
+
+## DO: Use minimal-to-no animations
+
+DON'T: Distract the audience with fancy animations/transitions
+
+Any transitions other than a simple fade, Morph (in PowerPoint), or Magic Move (in Keynote) will be removed unless there's a good reason for their use. Animations&#x20;
+
+At least destructive, animations and transitions can **distract the audience**. At most destructive, excessive animations and transitions can **cause physical harm** to audience members with photosensitive epilepsy and other photosensitive conditions.
 
 ***
 

@@ -6,7 +6,7 @@ description: >-
 
 # 💻 Slides & A/V
 
-## First Consider: Is It Needed?
+## First Considerations
 
 Slides, videos, performances, live music, tech demos... the list goes on! These are wonderful complements to your talk if you want to illustrate a point. However, these complements _should never become supplements_ for your talk. There have been hundreds of TED Talks done without any slide deck. Consider whether the audience gains anything from having one... or if it just distracts from your idea.
 
@@ -14,7 +14,7 @@ Slides, videos, performances, live music, tech demos... the list goes on! These 
 Slides, videos, etc. are never to help _you._ You should be able to present without these aids. It's to help _the audience._ Keep this in mind as you make your talk.
 {% endhint %}
 
-
+***
 
 ## PowerPoint Slides
 
@@ -40,17 +40,17 @@ If something **isn't necessary, don't include it.** A blank slide is as powerful
 
 {% file src=".gitbook/assets/Presentation Template - TEDxIndianaUniversity.pptx" %}
 
-
-
-
-
-
+***
 
 ## Video
 
-Video content can be amazingly captivating! Note that video should be used to support and demonstrate what you're speaking about, rather than _replacing_ you as a speaker. If the video is explaining a concept instead of you, it's likely not a good fit for your talk. However, a short video to illustrate an example can really help the audience visualise your point. If you're interested in including a video in your TEDx talk, let us know!
+Video content can be amazingly captivating! If you're interested in including a video in your TEDx talk, let us know. If you have a slide deck, feel free to embed it there. Either way, be sure to **send us the video file** as a backup.
+
+Note that video should be used to support and demonstrate what you're speaking about, rather than _replacing_ you as a speaker. If the video is explaining a concept instead of you, it's likely not a good fit for your talk. However, a short video to illustrate an example can really help the audience visualise your point.&#x20;
 
 
+
+***
 
 ## Live Music, Performance, or Visual Art
 

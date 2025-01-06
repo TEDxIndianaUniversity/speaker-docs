@@ -10,13 +10,13 @@ If you haven't seen our [Slides & A/V](../slides-and-a-v.md) article yet, go rea
 
 ***
 
-## DO: Start with a Black Screen
+## DO: Start with a Black Screen or Full-Screen Image
 
 DON'T: Start with a title slide.
 
 <div align="center"><figure><img src="../.gitbook/assets/image.png" alt="A black screen, with absolutely nothing on it. " width="375"><figcaption><p><strong>GOOD:</strong> <em>What happens next?!</em></p></figcaption></figure> <figure><img src="../.gitbook/assets/TitleSlide.png" alt="" width="375"><figcaption><p><strong>BAD:</strong> <em>Boring intro that gives away your talk.</em></p></figcaption></figure></div>
 
-Design your talk to **start from a black screen**. Why?
+Design your talk to **start from a black screen or a full-screen image**. Why?
 
 1. Audiences prefer a talk that starts with the bulk of the idea (also called _in medias res_) or starts with an example that expands into the idea. Designing from a black slide encourages this.&#x20;
 2. Title slides often cause presenters to say "So today I'm talking about..." (Absolutely, no. Never.)

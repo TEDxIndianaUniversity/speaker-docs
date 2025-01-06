@@ -28,13 +28,17 @@ Again, slides are **entirely optional!** Lots of TED Talks happen without them. 
 
 If something **isn't necessary, don't include it.** A blank slide is as powerful as a slide with content. Think about **how you'll click through your slides** as you talk.
 
-### Notes
+{% hint style="info" %}
+Our team will **provide comments** on your initial slide drafts and **make edits** to your final version for clarity, brand identity, compliance, and legal reasons.
+{% endhint %}
+
+### Requirements
 
 * **Use PowerPoint or Keynote.**&#x20;
   * DO NOT use online services such as Google Slides, Canva, or Prezi.&#x20;
   * If you use Linux, you may save LibreOffice files in .pptx format or use [PowerPoint Online](https://powerpoint.cloud.microsoft/) or [Keynote on iCloud.com](https://www.icloud.com/keynote/).
 * Use a black slide background whenever possible.
-* Our team will **provide comments** on your initial slide drafts and **make edits** to your final version for clarity, brand identity, compliance, and legal reasons.
+* Follow our [design-brilliant-slides.md](slides-and-a-v/design-brilliant-slides.md "mention") guidelines.
 
 ### Download Template
 

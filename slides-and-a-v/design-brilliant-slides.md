@@ -87,7 +87,7 @@ Now that you have only images and videos that support your talk, you want them s
 
 DON'T: Distract the audience with fancy animations/transitions
 
-Any transitions other than a simple fade, Morph (in PowerPoint), or Magic Move (in Keynote) will be removed unless there's a good reason for their use. Animations&#x20;
+Any transitions other than a simple fade, Morph (in PowerPoint), or Magic Move (in Keynote) will be removed unless there's a good reason for their use. Animations should also be simple fades and used sparingly.
 
 At least destructive, animations and transitions can **distract the audience**. At most destructive, excessive animations and transitions can **cause physical harm** to audience members with photosensitive epilepsy and other photosensitive conditions.
 

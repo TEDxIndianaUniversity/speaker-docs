@@ -97,7 +97,7 @@ At least destructive, animations and transitions can **distract the audience**. 
 
 DON'T: Wait until the last minute
 
-Have ideas or questions about presenting? Your curator can make sure your questions gets to the right people to have it answered! The Technical Production team plans and manages media for the event. We're happy to provide support and answer questions!
+Have ideas or questions about presenting? Your curator can make sure your questions get to the right people to have it answered! The Technical Production team plans and manages media for the event. We're happy to provide support and answer questions!
 
 
 

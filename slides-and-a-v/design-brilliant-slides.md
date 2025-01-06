@@ -51,7 +51,7 @@ You're there to give the talk, share the content, and tell the narrative. You sh
 
 
 
-## DO: Use Photos & Videos that Supports your Talk
+## DO: Use Photos & Videos that Support your Talk
 
 DON'T: Use stock images or filler images
 

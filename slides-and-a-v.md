@@ -18,6 +18,18 @@ Slides, videos, etc. are never to help _you._ You should be able to present with
 
 ## PowerPoint Slides
 
+### Requirements
+
+* Follow our [design-brilliant-slides.md](slides-and-a-v/design-brilliant-slides.md "mention") guidelines.
+* **Use PowerPoint or Keynote.**&#x20;
+  * DO NOT use online services such as Google Slides, Canva, or Prezi.&#x20;
+  * If you use Linux, you may save LibreOffice files in .pptx format or use [PowerPoint Online](https://powerpoint.cloud.microsoft/) or [Keynote on iCloud.com](https://www.icloud.com/keynote/).
+* Use a black slide background whenever possible.
+
+### Download Template
+
+{% file src=".gitbook/assets/Presentation Template - TEDxIndianaUniversity.pptx" %}
+
 ### Considerations
 
 Again, slides are **entirely optional!** Lots of TED Talks happen without them. If you do decide to build slides, it's important to remember that: **your talk and idea are centre stage**. While building the slides, continually ask yourself:
@@ -31,18 +43,6 @@ If something **isn't necessary, don't include it.** A blank slide is as powerful
 {% hint style="info" %}
 Our team will **provide comments** on your initial slide drafts and **make edits** to your final version for clarity, brand identity, compliance, and legal reasons.
 {% endhint %}
-
-### Requirements
-
-* **Use PowerPoint or Keynote.**&#x20;
-  * DO NOT use online services such as Google Slides, Canva, or Prezi.&#x20;
-  * If you use Linux, you may save LibreOffice files in .pptx format or use [PowerPoint Online](https://powerpoint.cloud.microsoft/) or [Keynote on iCloud.com](https://www.icloud.com/keynote/).
-* Use a black slide background whenever possible.
-* Follow our [design-brilliant-slides.md](slides-and-a-v/design-brilliant-slides.md "mention") guidelines.
-
-### Download Template
-
-{% file src=".gitbook/assets/Presentation Template - TEDxIndianaUniversity.pptx" %}
 
 ***
 
